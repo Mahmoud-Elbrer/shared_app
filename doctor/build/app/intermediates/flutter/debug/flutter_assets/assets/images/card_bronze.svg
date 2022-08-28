@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="246" height="402" viewBox="0 0 246 402">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f3d4bf"/>
+      <stop offset="1" stop-color="#f4d5c0" stop-opacity="0.278"/>
+    </linearGradient>
+  </defs>
+  <g id="card_Bronze" data-name="card Bronze" transform="translate(-57 -146)">
+    <g id="Group_1" data-name="Group 1">
+      <text id="_6_months" data-name="/ 6 months" transform="translate(191 233)" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">/ 6 months</tspan></text>
+      <text id="_20_000" data-name="20,000" transform="translate(117 222)" font-size="24" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="26">20,000</tspan></text>
+    </g>
+    <g id="card_plane">
+      <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(58 147)" stroke="#d1d3d2" stroke-linejoin="bevel" stroke-width="1" fill="url(#linear-gradient)">
+        <rect width="244" height="400" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="245" height="401" fill="none"/>
+      </g>
+      <path id="Vector_1" data-name="Vector 1" d="M0,117.955c0-11.086,39.582-12.416,104.716-19.511C104.716,98.443,242,98,242,0V196H0Z" transform="translate(59 351)" fill="rgba(133,133,133,0.65)" stroke="#d1d3d2" stroke-width="1"/>
+    </g>
+    <text id="Bronze" transform="translate(139 163)" fill="rgba(255,255,255,0.91)" font-size="24" font-family="SegoeUI, Segoe UI"><tspan x="0" y="26">Bronze</tspan></text>
+    <g id="Features">
+      <text id="Avaliable_online" data-name="Avaliable online" transform="translate(82 315)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="12">Avaliable online</tspan></text>
+      <text id="Maxmum_of_5_appoinment_per_day" data-name="Maxmum of 5 appoinment per day" transform="translate(82 337)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="12">Maxmum of 5 appoinment per day</tspan></text>
+      <text id="Appointment_reminder_by_the_company" data-name="Appointment reminder by the company" transform="translate(82 360)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="12">Appointment reminder by the company</tspan></text>
+      <text id="Viewed_as_top_in_the_search_list" data-name="Viewed as top in the search list" transform="translate(82 381)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="12">Viewed as top in the search list</tspan></text>
+      <text id="Promotion_and_markiting_campain" data-name="Promotion and markiting campain" transform="translate(82 403)" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="12">Promotion and markiting campain</tspan></text>
+      <g id="check">
+        <path id="Vector" d="M7,15a6.582,6.582,0,0,1-2.68-.568,6.973,6.973,0,0,1-2.272-1.626,7.894,7.894,0,0,1,0-10.609,6.678,6.678,0,0,1,9.9,0,7.893,7.893,0,0,1,0,10.609A6.972,6.972,0,0,1,9.68,14.432,6.582,6.582,0,0,1,7,15ZM7,1.2a5.508,5.508,0,0,0-2.253.477A5.836,5.836,0,0,0,2.84,3.046a6.632,6.632,0,0,0,0,8.912,5.618,5.618,0,0,0,8.32,0,6.632,6.632,0,0,0,0-8.912A5.838,5.838,0,0,0,9.253,1.677,5.51,5.51,0,0,0,7,1.2Z" transform="translate(64 315)" fill="#649ffe"/>
+        <path id="Vector-2" data-name="Vector" d="M11.556,12.382h.006" transform="translate(64 315)" fill="#649ffe"/>
+        <path id="Vector-3" data-name="Vector" d="M2.721,5a.5.5,0,0,1-.2-.041.517.517,0,0,1-.168-.117L.152,2.547a.543.543,0,0,1-.112-.175.562.562,0,0,1,0-.414.543.543,0,0,1,.112-.175A.518.518,0,0,1,.32,1.665a.5.5,0,0,1,.4,0,.518.518,0,0,1,.168.117L2.721,3.694,6.114.158A.518.518,0,0,1,6.283.041a.5.5,0,0,1,.4,0,.518.518,0,0,1,.168.117.543.543,0,0,1,.112.175.562.562,0,0,1,0,.414.543.543,0,0,1-.112.175L3.088,4.842a.516.516,0,0,1-.168.117.5.5,0,0,1-.2.041Z" transform="translate(68 320)"/>
+      </g>
+      <g id="check-2" data-name="check">
+        <path id="Vector-4" data-name="Vector" d="M7,15a6.582,6.582,0,0,1-2.68-.568,6.973,6.973,0,0,1-2.272-1.626,7.894,7.894,0,0,1,0-10.609,6.678,6.678,0,0,1,9.9,0,7.893,7.893,0,0,1,0,10.609A6.972,6.972,0,0,1,9.68,14.432,6.582,6.582,0,0,1,7,15ZM7,1.2a5.508,5.508,0,0,0-2.253.477A5.836,5.836,0,0,0,2.84,3.046a6.632,6.632,0,0,0,0,8.912,5.618,5.618,0,0,0,8.32,0,6.632,6.632,0,0,0,0-8.912A5.838,5.838,0,0,0,9.253,1.677,5.51,5.51,0,0,0,7,1.2Z" transform="translate(64 336)" fill="#649ffe"/>
+        <path id="Vector-5" data-name="Vector" d="M11.556,12.382h.006" transform="translate(64 336)" fill="#649ffe"/>
+        <path id="Vector-6" data-name="Vector" d="M2.721,5a.5.5,0,0,1-.2-.041.517.517,0,0,1-.168-.117L.152,2.547a.543.543,0,0,1-.112-.175.562.562,0,0,1,0-.414.543.543,0,0,1,.112-.175A.518.518,0,0,1,.32,1.665a.5.5,0,0,1,.4,0,.518.518,0,0,1,.168.117L2.721,3.694,6.114.158A.518.518,0,0,1,6.283.041a.5.5,0,0,1,.4,0,.518.518,0,0,1,.168.117.543.543,0,0,1,.112.175.562.562,0,0,1,0,.414.543.543,0,0,1-.112.175L3.088,4.842a.516.516,0,0,1-.168.117.5.5,0,0,1-.2.041Z" transform="translate(68 341)"/>
+      </g>
+      <g id="X">
+        <path id="Vector-7" data-name="Vector" d="M7,15a6.582,6.582,0,0,1-2.68-.568,6.973,6.973,0,0,1-2.272-1.626,7.894,7.894,0,0,1,0-10.609,6.678,6.678,0,0,1,9.9,0,7.893,7.893,0,0,1,0,10.609A6.972,6.972,0,0,1,9.68,14.432,6.582,6.582,0,0,1,7,15ZM7,1.2a5.508,5.508,0,0,0-2.253.477A5.836,5.836,0,0,0,2.84,3.046a6.632,6.632,0,0,0,0,8.912,5.618,5.618,0,0,0,8.32,0,6.632,6.632,0,0,0,0-8.912A5.838,5.838,0,0,0,9.253,1.677,5.51,5.51,0,0,0,7,1.2Zm4.562,11.182h-.006Z" transform="translate(64 359)"/>
+        <g id="x-2" data-name="x">
+          <line id="Line_1" data-name="Line 1" x2="7" transform="translate(68.829 369.778) rotate(-45)" fill="none" stroke="#000" stroke-width="1"/>
+          <line id="Line_2" data-name="Line 2" x2="7" transform="translate(73.778 369.071) rotate(-135)" fill="none" stroke="#000" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="X-3" data-name="X">
+        <path id="Vector-8" data-name="Vector" d="M7,15a6.582,6.582,0,0,1-2.68-.568,6.973,6.973,0,0,1-2.272-1.626,7.894,7.894,0,0,1,0-10.609,6.678,6.678,0,0,1,9.9,0,7.893,7.893,0,0,1,0,10.609A6.972,6.972,0,0,1,9.68,14.432,6.582,6.582,0,0,1,7,15ZM7,1.2a5.508,5.508,0,0,0-2.253.477A5.836,5.836,0,0,0,2.84,3.046a6.632,6.632,0,0,0,0,8.912,5.618,5.618,0,0,0,8.32,0,6.632,6.632,0,0,0,0-8.912A5.838,5.838,0,0,0,9.253,1.677,5.51,5.51,0,0,0,7,1.2Zm4.562,11.182h-.006Z" transform="translate(64 380)"/>
+        <g id="x-4" data-name="x">
+          <line id="Line_1-2" data-name="Line 1" x2="7" transform="translate(68.829 390.778) rotate(-45)" fill="none" stroke="#000" stroke-width="1"/>
+          <line id="Line_2-2" data-name="Line 2" x2="7" transform="translate(73.778 390.071) rotate(-135)" fill="none" stroke="#000" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="X-5" data-name="X">
+        <path id="Vector-9" data-name="Vector" d="M7,15a6.582,6.582,0,0,1-2.68-.568,6.973,6.973,0,0,1-2.272-1.626,7.894,7.894,0,0,1,0-10.609,6.678,6.678,0,0,1,9.9,0,7.893,7.893,0,0,1,0,10.609A6.972,6.972,0,0,1,9.68,14.432,6.582,6.582,0,0,1,7,15ZM7,1.2a5.508,5.508,0,0,0-2.253.477A5.836,5.836,0,0,0,2.84,3.046a6.632,6.632,0,0,0,0,8.912,5.618,5.618,0,0,0,8.32,0,6.632,6.632,0,0,0,0-8.912A5.838,5.838,0,0,0,9.253,1.677,5.51,5.51,0,0,0,7,1.2Zm4.562,11.182h-.006Z" transform="translate(64 401)"/>
+        <g id="x-6" data-name="x">
+          <line id="Line_1-3" data-name="Line 1" x2="7" transform="translate(68.829 411.778) rotate(-45)" fill="none" stroke="#000" stroke-width="1"/>
+          <line id="Line_2-3" data-name="Line 2" x2="7" transform="translate(73.778 411.071) rotate(-135)" fill="none" stroke="#000" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
