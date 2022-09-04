@@ -1,4 +1,0 @@
-#Wed Aug 10 16:41:27 EET 2022
-base.0=D\:\\AndroidPro\\doctosApp\\doctor_app2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

@@ -1,8 +1,0 @@
-<svg id="_40-clock-1" data-name="40-clock-1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <rect id="_40-clock-1-2" data-name="40-clock-1" width="24" height="24" fill="none"/>
-  <g id="_40-clock-1-3" data-name="40-clock-1">
-    <rect id="_40-clock-1-4" data-name="40-clock-1" width="24" height="24" fill="none"/>
-    <path id="Vector" d="M9.25,0A9.25,9.25,0,1,1,0,9.25,9.25,9.25,0,0,1,9.25,0Z" transform="translate(2.75 2.75)" fill="none" stroke="#fff" stroke-width="1.5"/>
-    <path id="Vector-2" data-name="Vector" d="M3,7.5l-3-3V0" transform="translate(12 7.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-  </g>
-</svg>

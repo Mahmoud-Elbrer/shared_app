@@ -1,6 +1,0 @@
-# Referenced at D:\AndroidPro\doctosApp\doctor_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
--keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at D:\AndroidPro\doctosApp\doctor_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:17
--keep class io.flutter.app.FlutterApplication { <init>(); }
-# Referenced at D:\AndroidPro\doctosApp\doctor_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:22
--keep class net.sudacoder.com.doctor_app.MainActivity { <init>(); }

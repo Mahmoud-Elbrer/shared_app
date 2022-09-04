@@ -1,4 +1,0 @@
-#Thu Aug 04 10:01:44 EET 2022
-base.0=D\:\\AndroidPro\\doctosApp\\doctor_app\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
